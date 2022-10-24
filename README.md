@@ -6,6 +6,7 @@ This is a Sales vs Budget Analysis.
  
  ABOUT DATASET:
  This Dataset contains 4 data with different structures Namely SalesData, Budget, Product and photos respectively
+ Sale
 Here is a screenshot of what the data contains
  
  
@@ -22,8 +23,9 @@ DATA CLEANING & NORMILIZATION: I imported all 4 files into Power BI and started 
 The data Cleaning Process Started with duplicating the Sales table so that i can model the data at the same time. My reason for duplicating the Data is so ican  have a dimension table called Salesperson. I removed every other ccolumn not relating to Sales Person, removed duplicates and performed an Inner join so that i can merge the extra table that contained EACH SalesPerson Image in URL Form with Sales Table. Sales Person column add forms like SP 105 so to make it consistent with the Sales Table, i splitted the column so i can have 105 standing Alone.
   By now i have two clean tables
   Next i duplicated the Table again to form a  Dates Table, after that i went to the Product Table and removed the ProductID Name since  there was already a column with that information. I Performed another Inner join with the Photos Table to extract Product URL. I changed data types to necessary data types, added a custom Column for Profit.
-  
+ I Cleaned the Final Table, Budget. The Budget Table was where i found the real challenge, but with the help of Pivot tool in Power Bi, i was able to use filters to remove blanks and unpivoted the columns so it turned 3. 
   DATA MODELLING:
+  I tried to make all relationships Many to One with Sales Filtering Salesperson table, Date and Product and SalesPerson table was filtering Budget. 
    Here is a screen grab of the Model afterwards
    ![Screenshot (30)](https://user-images.githubusercontent.com/41531796/197616608-a1427404-1459-404c-adc9-d9b8ca0ff44e.png)
    
