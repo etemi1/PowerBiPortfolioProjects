@@ -16,5 +16,5 @@ Here is a screenshot of what the data contains
 PROCESS:
 Data EXploration: I Explored the data with Excel, to get an idea of the kind of entities in the data i am working with the columns, the measures and dimension
 
-Data Cleaning:
+Data Cleaning: I imported all 4 files into Power BI and started data Cleaning Process
 
