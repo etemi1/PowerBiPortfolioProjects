@@ -26,5 +26,15 @@ The data Cleaning Process Started with duplicating the Sales table so that i can
   DATA MODELLING:
    Here is a screen grab of the Model afterwards
    ![Screenshot (30)](https://user-images.githubusercontent.com/41531796/197616608-a1427404-1459-404c-adc9-d9b8ca0ff44e.png)
+   
+   
+   
+   DATA ANALYSIS AND VISUALIZATION 
+   ![Screenshot (33)](https://user-images.githubusercontent.com/41531796/197617348-72c8f668-73b0-4049-a6c6-20958a727e2c.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/41531796/197617465-f6cb6582-6861-4c55-a6c6-593e69238ecf.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/41531796/197617501-b84f5af4-5437-49d3-b7ad-33bdb471def6.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/41531796/197617535-97e67ec1-69af-49b8-882f-e4fb3c2a5fa5.png)
+
 
 
