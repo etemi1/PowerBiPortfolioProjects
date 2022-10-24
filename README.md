@@ -16,5 +16,8 @@ Here is a screenshot of what the data contains
 PROCESS:
 Data EXploration: I Explored the data with Excel, to get an idea of the kind of entities in the data i am working with the columns, the measures and dimension
 
-Data Cleaning: I imported all 4 files into Power BI and started data Cleaning Process
+Data Cleaning & Normilization Process: I imported all 4 files into Power BI and started data Cleaning Process. Power Bi seperated the Photos into two tables so making all the tables 5.
+The data Cleaning Process Started with duplicating the Sales table so that i can model the data at the same time. My reason for duplicating the Data is so ican  have a dimension table called Salesperson. I removed every other ccolumn not relating to Sales Person, removed duplicates and performed an Inner join so that i can merge the extra table that contained EACH SalesPerson Image in URL Form with Sales Table. Sales Person column add forms like SP 105 so to make it consistent with the Sales Table, i splitted the column so i can have 105 standing Alone.
+  By now i have two clean tables
+  Next i duplicated the Table again to forma Date Table, after that i went to the Product Table and removed the ProductID 
 
