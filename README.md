@@ -4,7 +4,7 @@ This is a Sales vs Budget Analysis.
  In this Project i performed a data Analysis for the purpose of presenting my Insights to my Stakeholders.
  ABOUT DATASET:
  This Dataset contains 4 data with different structures Namely SalesData, Budget, Product and photos respectively
- 
+Here is a screenshot of what the data contains
  
  
  
@@ -13,5 +13,8 @@ This is a Sales vs Budget Analysis.
 ![Screenshot (37)](https://user-images.githubusercontent.com/41531796/197609061-feea297c-9ffd-4a73-8d0e-53c70cf9f958.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/41531796/197609138-19f511af-a5eb-4bc6-9b62-172d275fdb46.png)
 
+PROCESS:
+Data EXploration: I Explored the data with Excel, to get an idea of the kind of entities in the data i am working with the columns, the measures and dimension
 
+Data Cleaning:
 
