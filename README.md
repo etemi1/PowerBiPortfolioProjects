@@ -41,5 +41,10 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
 
 QUESTIONS ASKED: 
 1. What was the Monthly Sales Trend from 2019 to 2021. 
-2. 
+2. Did the Salesperson meet their Target?
+3. Who were the TOP 5 SalesPerson?
+4. What 3 products Sells the most?
+5. Which Manager had the best performance?
+6. Which Supervisor had the best Performance in 2020?
+7. What Products are best Sold by each SalesPerson?
 
