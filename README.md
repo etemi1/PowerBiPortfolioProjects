@@ -40,7 +40,7 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
 ![Screenshot (34)](https://user-images.githubusercontent.com/41531796/197617501-b84f5af4-5437-49d3-b7ad-33bdb471def6.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/41531796/197617535-97e67ec1-69af-49b8-882f-e4fb3c2a5fa5.png)
 
-#QUESTIONS ASKED: 
+# QUESTIONS ASKED: 
 1. What was the Monthly Sales Trend from 2019 to 2021. 
 2. Did the Salesperson meet their Target?
 3. Who were the TOP 5 SalesPerson?
