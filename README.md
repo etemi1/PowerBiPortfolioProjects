@@ -16,10 +16,11 @@ Here is a screenshot of what the data contains
 ![Screenshot (37)](https://user-images.githubusercontent.com/41531796/197609061-feea297c-9ffd-4a73-8d0e-53c70cf9f958.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/41531796/197609138-19f511af-a5eb-4bc6-9b62-172d275fdb46.png)
 
-#PROCESS:
-#Data EXploration: I Explored the data with Excel, to get an idea of the kind of entities in the data i am working with the columns, the measures and dimension, After that i used the filters option in Excle to get an idea of where to start my data cleaning from
+# PROCESS:
+Data EXploration: I Explored the data with Excel, to get an idea of the kind of entities in the data i am working with the columns, the measures and dimension, After that i used the filters option in Excle to get an idea of where to start my data cleaning from
 
-# DATA CLEANING & NORMILIZATION: I imported all 4 files into Power BI and started data Cleaning Process. Power Bi seperated the Photos into two tables so making all the tables 5.
+# DATA CLEANING & NORMILIZATION:
+ I imported all 4 files into Power BI and started data Cleaning Process. Power Bi seperated the Photos into two tables so making all the tables 5.
 The data Cleaning Process Started with renaming the Sales table as FactSales and duplicating the table so that i can model the data at the same time. My reason for duplicating the Data on FactSales Table is to create a dimension table for SalesPerson.  I removed every other column not relating to Sales Person, removed duplicates and performed an Inner join so that i can merge the extra table that contained EACH SalesPerson Image in URL Form with FactSales Table.
  Sales Person ID column had forms like 'SP 105' so to make it consistent with the FactSales Table, i splitted the column so i can have 105 standing Alone.
   By now i have two clean tables. 
