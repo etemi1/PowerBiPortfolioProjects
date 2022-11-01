@@ -34,11 +34,13 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
    
    
   # DATA ANALYSIS AND VISUALIZATION 
-   ![Screenshot (33)](https://user-images.githubusercontent.com/41531796/197617348-72c8f668-73b0-4049-a6c6-20958a727e2c.png)
 
-![Screenshot (31)](https://user-images.githubusercontent.com/41531796/197617465-f6cb6582-6861-4c55-a6c6-593e69238ecf.png)
-![Screenshot (34)](https://user-images.githubusercontent.com/41531796/197617501-b84f5af4-5437-49d3-b7ad-33bdb471def6.png)
-![Screenshot (32)](https://user-images.githubusercontent.com/41531796/197617535-97e67ec1-69af-49b8-882f-e4fb3c2a5fa5.png)
+![IMG-7715](https://user-images.githubusercontent.com/41531796/199358223-4d7f90c8-0162-488b-b6e3-f09d3106e4d8.jpg)
+![IMG-7716](https://user-images.githubusercontent.com/41531796/199358266-290bf8f1-5168-4637-972b-c11eb29ca396.jpg)
+![IMG-7717](https://user-images.githubusercontent.com/41531796/199358299-288e5fcd-3710-412a-aa28-6133293eb257.jpg)
+![IMG-7718](https://user-images.githubusercontent.com/41531796/199358324-b4108c5f-28bb-4edb-bedd-254016005ecc.jpg)
+
+
 
 ### DATA INSIGHTS
 1. The Top 5 Sales Person where Carla Ferreira, Julio Lima, Gustavo Gomes,Felipe Goncalves, Leonardo and Cardoso
