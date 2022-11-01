@@ -28,9 +28,10 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
  I Cleaned the Final Table, Budget. The Budget Table was where i found the real challenge, but with the help of Pivot tool in Power Bi, i was able to use filters to remove blanks and unpivoted the columns so it turned 3. 
  # DATA MODELLING:
   I tried to make all relationships Many to One with Sales Filtering Salesperson table, Date and Product and SalesPerson table was filtering Budget. 
-   Here is a screen grab of the Model afterwards
-   ![Screenshot (30)](https://user-images.githubusercontent.com/41531796/197616608-a1427404-1459-404c-adc9-d9b8ca0ff44e.png)
+   Here is a screen grab of the Data Schema after modellinig it
    
+  ![Screenshot (88)](https://user-images.githubusercontent.com/41531796/199352004-fe616737-4e6f-40da-b8d6-bb6214630d6a.png)
+
    
    
   # DATA ANALYSIS AND VISUALIZATION 
