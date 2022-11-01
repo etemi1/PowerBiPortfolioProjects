@@ -27,8 +27,7 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
   Next i duplicated the Table again to form a  Dates Table, i better way would been to use an Advance date dimesion query which would give a many to one but i tried using this method, for some reason was getting blanks, So after that i went to the Product Table and removed the ProductID Name since  there was already a column with that information. I Performed another Inner join with the Photos Table to extract Product image URL. I changed data types when necessary , added a custom Column for Profit.
  I Cleaned the Final Table, Budget. The Budget Table was where i found the real challenge, but with the help of Pivot tool in Power Bi, i was able to use filters to remove blanks and unpivoted the columns so it turned 3. 
  # DATA MODELLING:
-  I tried to make all relationships Many to One with Sales Filtering Salesperson table, Date and Product and SalesPerson table was filtering Budget. 
-   Here is a screen grab of the Data Schema after modellinig it
+ From the Data Schema and the filters we can see that the Factstable is filtering all other dimension tables except budget, this means that Budget is been filtered by sales person because each person is given a budget per monthly basis. 
    
   ![Screenshot (88)](https://user-images.githubusercontent.com/41531796/199352004-fe616737-4e6f-40da-b8d6-bb6214630d6a.png)
 
@@ -44,5 +43,10 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
 ### DATA INSIGHTS
 1. The Top 5 Sales Person where Carla Ferreira, Julio Lima, Gustavo Gomes,Felipe Goncalves, Leonardo and Cardoso
 2. The best Month for this company is October, September, November and December so i would say generally 4th Quarter looks good
-3. 
-
+3. The Top Products that account gor most percentage of companies revenue is Wheat Flour, Oil, Yeasts, Flour, Liquor and Candy and the this insight is consistent all year and all quarter 
+4. Food makes the 
+5. There are total of 22 Products and 2 Categories with the best Category been Food category
+6. Their Best Year by Revenue Performance was in 2020 and it's surprising because in 2020 alot of companies tanked due to covid 19 that's quite interesting to know
+7. The Sales Surpassed Budget every year. 
+8. It's Noticed that the Best Supervisors are Diego Araujo, Diogo Carvalho, Sofia Ribeiro, Emily Rocha and Fernando Silva
+9. I noticed that the best Salesperson has Best Supervisor i.e Carla Ferreira's Supervisor which is Diego Araujo they both happen to make a good team. Generally i noticed that Leonardo is also been supervised by Diego Araujo, so that the top and bottom five has good supervisors. 
