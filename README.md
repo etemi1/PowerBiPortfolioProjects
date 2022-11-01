@@ -41,12 +41,8 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
 ![Screenshot (34)](https://user-images.githubusercontent.com/41531796/197617501-b84f5af4-5437-49d3-b7ad-33bdb471def6.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/41531796/197617535-97e67ec1-69af-49b8-882f-e4fb3c2a5fa5.png)
 
-# QUESTIONS ASKED: 
-1. What was the Monthly Sales Trend from 2019 to 2021. 
-2. Did the Salesperson meet their Target?
-3. Who were the TOP 5 SalesPerson?
-4. What 3 products Sells the most?
-5. Which Manager had the best performance?
-6. Which Supervisor had the best Performance in 2020?
-7. What Products are best Sold by each SalesPerson?
+### DATA INSIGHTS
+1. The Top 5 Sales Person where Carla Ferreira, Julio Lima, Gustavo Gomes,Felipe Goncalves, Leonardo and Cardoso
+2. The best Month for this company is October, September, November and December so i would say generally 4th Quarter looks good
+3. 
 
