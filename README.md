@@ -46,7 +46,7 @@ The data Cleaning Process Started with renaming the Sales table as FactSales and
 1. The Top 5 Sales Person where Carla Ferreira, Julio Lima, Gustavo Gomes,Felipe Goncalves, Leonardo and Cardoso
 2. The best Month for this company is October, September, November and December so i would say generally 4th Quarter looks good
 3. The Top Products that account gor most percentage of companies revenue is Wheat Flour, Oil, Yeasts, Flour, Liquor and Candy and the this insight is consistent all year and all quarter 
-4. Food makes the 
+4. Food makes for the highest product category 
 5. There are total of 22 Products and 2 Categories with the best Category been Food category
 6. Their Best Year by Revenue Performance was in 2020 and it's surprising because in 2020 alot of companies tanked due to covid 19 that's quite interesting to know
 7. The Sales Surpassed Budget every year. 
